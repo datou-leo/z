@@ -1,2 +1,2 @@
 # z
-zzz是一个基于nodejs的express框架开发的一个简单实现了前后台的demo
+z是一个基于nodejs的express框架开发的一个简单实现了前后台的demo
